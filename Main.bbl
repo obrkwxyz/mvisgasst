@@ -1,0 +1,23 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Harris(2004)}]{harris2004}
+Harris, FJ 2004, \emph{Multirate Signal Processing for Communication Systems},
+  1st edn, Prentice Hall PTR, Upper Saddle River, New Jersey.
+
+\bibitem[{Harris(2021)}]{harris2021}
+Harris, FJ 2021, \emph{Multirate Signal Processing for Communication Systems},
+  2nd edn, River Publishers, Gistrup, Denmark.
+
+\bibitem[{Solomon \& Breckon(2011)}]{solomon2010}
+Solomon, C \& Breckon, T 2011, \emph{Fundamentals of Digital Image Processing:
+  a Practical Approach with Examples in Matlab}, 1st edn, John Wiley and Sons,
+  West Sussex, United Kingdom.
+
+\end{thebibliography}
